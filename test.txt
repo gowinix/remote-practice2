@@ -3,3 +3,4 @@ remote-practice2
 추가내용
 practice2에만 있는 내용
 누가와서 이렇게 내용을 바꾼다면
+다시 2번재 변경한다면
